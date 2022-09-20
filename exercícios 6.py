@@ -1,5 +1,5 @@
 print('Simulação de compra de dolar')
-print(' ')
+
 M = float(input("Digite o Valor que você possui na sua conta corrente: "))
 C = float(input('Digite a Cotação atual do Dolar: '))
 
