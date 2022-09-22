@@ -1,0 +1,1 @@
+S = float(input('Digite o Valor do Salario: '))A = float(input('Digite a % do aumento de salario: '))J = S + (S * A / 100)print('O Seu Novo Salario com um aumento de {}% apartir de {}reais é {}Reais Parabens!!! '.format(A, S, J))
